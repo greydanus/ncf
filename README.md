@@ -42,6 +42,6 @@ Code for our quantum experiments can be found in `quantum.py`.
 
 ## Depedencies
 
-* PyTorch `pip install torch` <3
-* Pandas `pip install pandas` <3
-* Celluloid (making videos) `pip install celluloid` <3
+* PyTorch `pip install torch`
+* Pandas `pip install pandas`
+* Celluloid (making videos) `pip install celluloid`
