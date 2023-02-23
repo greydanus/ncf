@@ -1,0 +1,25 @@
+# Nature's Cost Function: Simulating Physics by Minimizing the Action
+# Tim Strang, Isabella Caruso, and Sam Greydanus | 2023 | MIT License
+
+# General
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pyc
+.inputrc
+
+# Latex ignores
+*.synctex.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+
+# Data files
+*.pkl
+*.pkl.gz
+*.csv
+*.csv.gz
+*.h5
+*.h5.gz
