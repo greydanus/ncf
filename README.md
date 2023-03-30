@@ -41,7 +41,9 @@ Core physics code can be found in [`core_physics.py`](https://github.com/greydan
 ## Quantum simulation
 Code for our quantum experiments can be found in `quantum_tutorial.py`.
 
-![Kmat.gif](static/Kmat.gif)
+<p align="middle">
+  <img src="static/Kvid.gif" width="500" />
+</p>
 
 ![quantum.png](static/quantum.png)
 
